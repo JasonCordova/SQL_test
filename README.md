@@ -1,0 +1,1 @@
+This is just a small personal test for SQL skills; attempting to build a portfolio website showcasing all previous projects.
